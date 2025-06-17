@@ -111,12 +111,11 @@
 .staff__cards {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   gap: 40px;
-  flex-grow: 0;
   padding: 0;
-  margin: 68px auto;
+  margin: 68px auto 0 auto;
   max-width: 760px;
   list-style-type: none;
 }
