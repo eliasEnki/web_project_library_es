@@ -88,6 +88,10 @@
 .staff {
   background-image: url("../images/staff_picks_background.jpg");
   padding: 100px 0 140px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: 50% 50%git;
 }
 
 .staff__title {
