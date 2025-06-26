@@ -312,7 +312,7 @@
   gap: 40px;
 }
 .step {
-  width: 220px;
+  flex-basis: 220px;
 }
 
 .step__title {
@@ -333,7 +333,7 @@
 }
 
 .footer {
-  padding: 100px 0 140px;
+  padding: 60px 80px;
   background-color: #1f1f1f;
   color: #ffffff;
   box-sizing: border-box;
@@ -344,11 +344,6 @@
   display: flex;
 
   justify-content: space-between;
-
-  margin-top: 60px;
-  margin-bottom: 60px;
-  margin-left: 80px;
-  margin-right: 80px;
 }
 .footer__column {
   position: relative;
@@ -364,7 +359,7 @@
 }
 
 .footer__logo {
-  width: 50px;
+  width: 58px;
   height: 80px;
 }
 
